@@ -1,0 +1,4 @@
+C:\Users\HUAWEI\source\repos\GameProjectt\GameProjectt\obj\Debug\net8.0\GameProjectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\GameProjectt\GameProjectt\obj\Debug\net8.0\GameProjectt.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\GameProjectt\GameProjectt\obj\Debug\net8.0\GameProjectt.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\GameProjectt\GameProjectt\obj\Debug\net8.0\GameProjectt.csproj.CoreCompileInputs.cache
